@@ -21,7 +21,7 @@ video_promedio_sin_edit_curso_actual = 3.5
 porcentaje_materil_inservible_promedio = 100 - otros_cursos_promedio / video_promedio_sin_edit * 100
 
 
-print(round(porcentaje_materil_inservible_promedio, 4))
+print(porcentaje_materil_inservible_promedio)
 
 
 
