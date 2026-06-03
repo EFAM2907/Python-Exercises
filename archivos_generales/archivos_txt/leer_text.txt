@@ -1,0 +1,3 @@
+probando escritura de txt
+salto de linea, segunda parte aquiprobando nuevo texto sin sobreescribir
+salto de linea, segunda parte aqui

@@ -1,4 +1,4 @@
-archivo_sin_leer = open("archivos_txt\\leer_text.txt", encoding= 'UTF-8')
+archivo_sin_leer = open("archivos_generales\\archivos_txt\\leer_text.txt", encoding= 'UTF-8')
 
 #leer archivo completo
 archivo = archivo_sin_leer.read()

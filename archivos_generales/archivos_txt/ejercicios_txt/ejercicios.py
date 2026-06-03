@@ -3,7 +3,7 @@ edad = ['24', '21', '39', '9']
 
 #escribiendo archivo txt con dos listas diferentes
 
-with open('archivos_txt\\ejercicio_txt', 'w') as archivo :
+with open('archivos_generales\\archivos_txt\\ejercicios_txt\\ejercicio_txt', 'w') as archivo :
     
     #para una sola linea es importante solo el write
     archivo.write('los nombre y las edades son: \n\n')
