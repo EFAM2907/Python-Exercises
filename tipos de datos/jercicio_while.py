@@ -20,8 +20,6 @@ while True:
         if numero >= 1 and numero <= 10 :
           for num in range(1,11):
             print(numero,'x',num,'=',numero * num)
-            
-          print('voy a hacer un while')
           break
       
         else:
