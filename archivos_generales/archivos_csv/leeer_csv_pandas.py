@@ -16,7 +16,7 @@ edades = df.sort_values("edad", ascending=False)
 
 #concatenando con la fucion concat de pandas
 concatenado = pd.concat([df, df2])
-#con drop_du´plicates eliminamos filas repetidas- delate repeated rows
+#con drop_duplicates eliminamos filas repetidas- delate repeated rows
 df_clean = concatenado.drop_duplicates()
 print(df_clean)
 
