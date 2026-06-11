@@ -20,7 +20,7 @@ try:
         adults += 1
         
         adults_percentage  = round((adults/number_of_people) * 100)
-        print(f'The percentage of adults is : {adults_percentage } %')  
+        print(f'The percentage of adults is : {adults_percentage }%')  
 except ValueError:
     print('I said a number gay')   
 

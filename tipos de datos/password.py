@@ -27,3 +27,8 @@ if __name__ == '__main__':
  new_password = input('give me a number crack ')
 
  print(random_password(new_password))
+
+num =[1,2,3,4,5,6]
+
+for i in num :
+    print(i)
