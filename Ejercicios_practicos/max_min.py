@@ -8,8 +8,7 @@ for num in range( cantidad_de_numeros):
     numeros = int(input('el numero es: '))
     if numeros > numero_maximo:
         numero_maximo = numeros
-    else :
-        numeros < numero_minimo
+    if  numeros < numero_minimo:
         numero_minimo = numeros
         
         
